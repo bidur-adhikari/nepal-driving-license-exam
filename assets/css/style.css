@@ -164,8 +164,7 @@ section{
     box-shadow:0 10px 25px rgba(0,0,0,.18);
 
 }
-
-.card{
+.feature-card{
 
     border:none;
 
@@ -173,7 +172,7 @@ section{
 
     transition:.35s;
 
-    box-shadow:var(--shadow);
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
 
 }
 
